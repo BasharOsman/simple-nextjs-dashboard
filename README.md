@@ -5,4 +5,5 @@
 this project is free to use by any developer
 
 ## Live Example
-_Live Example: https://simple-nextjs-dashboard.vercel.app/
+
+[![vercel](./public/vercel.svg)](https://simple-nextjs-dashboard.vercel.app/)
